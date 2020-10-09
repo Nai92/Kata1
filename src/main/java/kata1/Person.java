@@ -3,6 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+/* @author Nigel
+
+*/
+
 package kata1;
 
 import java.time.LocalDate;
@@ -32,6 +37,7 @@ public class Person {
         return (int) (days/365);
     }
 }
+
 
 
 
