@@ -15,10 +15,11 @@ public class Kata1 {
     
     
     public static void main(String[] args) {
-        Person person = new Person("Luis Hernandez", LocalDate.of(1970, Month.MARCH, 30));
+        Person person = new Person("Nigel", LocalDate.of(1992, Month.DECEMBER, 28));
         System.out.println(person.getName() + " tiene: " + person.getAge()+ " años");
     }
 }
+
 
 
 
